@@ -8,6 +8,6 @@
 |第２週|week2.py|[ニュートン法による解の求め方](https://github.com/ryusuke920/NumericalAnalysis/blob/main/Assignment/week2.py)|
 |第３週|week3_1.py|[ドラム缶の海洋投棄問題](https://github.com/ryusuke920/NumericalAnalysis/blob/main/Assignment/week3_1.py)|
 |第３週|week3_2.py|[ラグランジュ補間](https://github.com/ryusuke920/NumericalAnalysis/blob/main/Assignment/week3_2.py)|
-|第４週|week4.py|未定|
-
+|第4週|week4_2.py|[スプライン補間](https://github.com/ryusuke920/NumericalAnalysis/blob/main/Assignment/week4_1.py)|
+|第4週|week4_2.py|[スプライン補間で未来大の周辺の地図を作成する](https://github.com/ryusuke920/NumericalAnalysis/blob/main/Assignment/week4_2.py)|
 ## その他
