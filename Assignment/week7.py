@@ -33,4 +33,4 @@ plt.xlabel('Number of grids',fontsize=18)
 plt.ylabel('Error (%)',fontsize=18)
 plt.grid(which="both") # グリッド表示。"both"はxy軸両方にグリッドを描く。
 plt.legend(loc='upper right')
-plt.show()    
+plt.show()
